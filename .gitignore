@@ -1,0 +1,10 @@
+# Compile file
+*/__pycache__/*
+
+# Data
+data/*
+*.png
+*.wav
+
+# Editor configuration
+.vscode/*
